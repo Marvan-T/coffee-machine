@@ -1,2 +1,2 @@
 # coffee-machine
-simple coffee machine project. 
+Simple coffee machine project. Represent how a person interacts with a coffee machine and how the machine responds.
